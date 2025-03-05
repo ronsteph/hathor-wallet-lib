@@ -17,7 +17,7 @@
     "abstract-level": "1.0.4",
     "axios": "1.7.7",
     "bitcore-lib": "8.25.10",
-    "bitcore-mnemonic": "8.25.10",
+    "bitcore-mnemonic": "8.25.47",
     "buffer": "6.0.3",
     "crypto-js": "4.2.0",
     "isomorphic-ws": "5.0.0",
